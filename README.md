@@ -135,7 +135,7 @@ PLEK (version 1.2.0)
   
   
   
-##### inport data
+##### import data
     mRNA <- seqinr::read.fasta(file ="./data/training/mRNA.fasta")
   
     lncRNA <- seqinr::read.fasta(file ="./data/training/lncRNA.fasta")
