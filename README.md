@@ -1,5 +1,5 @@
 
-![Workflow of the model retraining](https://github.com/xuechantian/LncRNA-retraining/blob/master/Figure1.png)
+![Workflow of the model retraining](https://github.com/xuechantian/LncRNA-retraining/blob/master/model-retraining.png)
 
 
 # **Plant lncRNA Identification with improved models**
