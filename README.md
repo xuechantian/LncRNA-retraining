@@ -1,3 +1,6 @@
+
+![Workflow of the model retraining](../Figure1.png)
+
 # **Plant lncRNA Identification with improved models**
 
 
