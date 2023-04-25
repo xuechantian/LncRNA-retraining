@@ -123,7 +123,7 @@ PLEK (version 1.2.0)
 
 
 
-## **4. Model retraining of CPAT software and prediction of LncFInder.**
+## **4. Model retraining of LncFinder software and prediction of lncRNA.**
 
 
 ### **Prerequisite:**
