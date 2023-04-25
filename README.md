@@ -75,7 +75,7 @@ CPAT (version 1.2.4)
 #### **Identification of lncRNA with original model**
 
 
-    cpat.py -x Human_Hexamer.tsv -d Human_logitModel.RData -g ./test/test.fasta -o CPAT_human.output
+    cpat.py -x ./Model/Human_Hexamer.tsv -d ./Model/Human_logitModel.RData -g ./test/test.fasta -o CPAT_human.output
 
 
 
