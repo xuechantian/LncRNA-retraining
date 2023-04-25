@@ -1,4 +1,4 @@
-![Workflow of the model retraining](./Figure1.png)
+![Figure 1](./Figure1.png)
 
 
 
