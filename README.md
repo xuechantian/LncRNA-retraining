@@ -1,5 +1,5 @@
 
-![Workflow of the model retraining](https://github.com/xuechantian/LncRNA-retraining/blob/master/model-retraining.png)
+![Workflow of the model retraining](https://github.com/xuechantian/LncRNA-retraining/blob/master/Model-Retraining.png)
 
 
 
