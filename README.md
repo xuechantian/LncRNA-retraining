@@ -26,7 +26,7 @@
 
 
 
-  The training data sets used for model construction came from the literature "Pattern recognition analysis on long noncoding RNAs: a tool for prediction in plants", [DOI Link](https://doi.org/10.1093/bib/bby034).
+  The lncRNA data used for the training set was derived from the GreeNC and PLncDB database, while the mRNA was sourced from the Phytozome database.
 
 
 
