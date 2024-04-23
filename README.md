@@ -13,8 +13,6 @@
 
 ### **This is a repository of code used for identifying long non-coding RNAs (lncRNAs) in plants. In order to improve the accuracy of plant lncRNA identification, we retrained and updated the models of several mainstream software .**
 
-#### **Email:** xuechan.tian@bjfu.edu.cn;jianfeng.mao@umu.se
-
 
 
 
